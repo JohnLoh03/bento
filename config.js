@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Outlook',
+			icon: 'inbox',
+			link: 'https://outlook.office.com/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Extensions',
-			icon: 'blocks',
-			link: 'about:addons',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://outlook.office.com/calendar/',
 		},
 	],
 

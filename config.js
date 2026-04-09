@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'HSBC Malaysia',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.hsbc.com.my/',
 				},
 				{
 					name: 'HSBC UK',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.hsbc.com.uk/',
 				},
 				{
 					name: 'Amazon',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.amazon.co.uk/',
 				},
 				{
 					name: 'Shopee',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://shopee.com.my/',
 				},
 			],
 		},

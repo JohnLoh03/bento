@@ -139,11 +139,11 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'HSBC MY',
+					name: 'HSBCMY',
 					link: 'https://www.hsbc.com.my/',
 				},
 				{
-					name: 'HSBC UK',
+					name: 'HSBCUK',
 					link: 'https://www.hsbc.co.uk/',
 				},
 				{

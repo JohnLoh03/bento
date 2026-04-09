@@ -162,19 +162,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Word',
-					link: 'https://www.linkedin.com',
+					link: 'https://word.cloud.microsoft/',
 				},
 				{
 					name: 'Excel',
-					link: 'https://www.dribbble.com',
+					link: 'https://excel.cloud.microsoft/',
 				},
 				{
 					name: 'Powerpoint',
-					link: 'https://www.trello.com',
+					link: 'https://powerpoint.cloud.microsoft/',
 				},
 				{
 					name: 'Onedrive',
-					link: 'https://www.slack.com',
+					link: 'https://uniofnottm-my.sharepoint.com/',
 				},
 			],
 		},

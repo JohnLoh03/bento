@@ -146,12 +146,6 @@ const CONFIG = {
 					name: 'HSBC UK',
 					link: 'https://www.hsbc.co.uk/',
 				},
-			],
-		},
-		{
-			icon: 'shopping-cart',
-			id: '2',
-			links: [
 				{
 					name: 'Amazon',
 					link: 'https://www.amazon.co.uk/',
@@ -159,6 +153,28 @@ const CONFIG = {
 				{
 					name: 'Shopee',
 					link: 'https://shopee.com.my/',
+				},
+			],
+		},
+		{
+			icon: 'briefcase-business',
+			id: '2',
+			links: [
+				{
+					name: 'Word',
+					link: 'https://word.cloud.microsoft/',
+				},
+				{
+					name: 'Powerpoint',
+					link: 'https://powerpoint.cloud.microsoft/',
+				},
+				{
+					name: 'Excel',
+					link: 'https://excel.cloud.microsoft/',
+				},
+				{
+					name: 'Onedrive',
+					link: 'https://uniofnottm-my.sharepoint.com/,
 				},
 			],
 		},

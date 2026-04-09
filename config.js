@@ -133,55 +133,55 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	secondlistsContainer: [
+	firstlistsContainer: [
 		{
-			icon: 'credit-card',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
-					name: 'HSBCMY',
-					link: 'https://www.hsbc.com.my/',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'HSBCUK',
-					link: 'https://www.hsbc.co.uk/',
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Amazon',
-					link: 'https://www.amazon.co.uk/',
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Shopee',
-					link: 'https://shopee.com.my/',
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
 		{
-			icon: 'briefcase-business',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'Word',
-					link: 'https://word.cloud.microsoft/',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Powerpoint',
-					link: 'https://powerpoint.cloud.microsoft/',
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Excel',
-					link: 'https://excel.cloud.microsoft/',
+					name: 'Trello',
+					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Onedrive',
-					link: 'https://uniofnottm-my.sharepoint.com/,
+					name: 'Slack',
+					link: 'https://www.slack.com',
 				},
 			],
 		},
 	],
 
 	// Second Links Container
-	firstListsContainer: [
+	secondListsContainer: [
 		{
 			icon: 'binary',
 			id: '1',

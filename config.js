@@ -135,46 +135,30 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'credit-card',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'HSBC MY',
+					link: 'https://www.hsbc.com.my/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'HSBC UK',
+					link: 'https://www.hsbc.co.uk/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'shopping-cart',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.co.uk/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Shopee',
+					link: 'https://shopee.com.my/',
 				},
 			],
 		},

@@ -133,7 +133,7 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	firstlistsContainer: [
+	secondlistsContainer: [
 		{
 			icon: 'credit-card',
 			id: '1',
@@ -181,7 +181,7 @@ const CONFIG = {
 	],
 
 	// Second Links Container
-	secondListsContainer: [
+	firstListsContainer: [
 		{
 			icon: 'binary',
 			id: '1',

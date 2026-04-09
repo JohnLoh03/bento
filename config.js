@@ -139,19 +139,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
+					name: 'HSBC Malaysia',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Classic',
+					name: 'HSBC UK',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Oldies',
+					name: 'Amazon',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rock',
+					name: 'Shopee',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
@@ -161,19 +161,19 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
+					name: 'Word',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
+					name: 'Excel',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
+					name: 'Powerpoint',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
+					name: 'Onedrive',
 					link: 'https://www.slack.com',
 				},
 			],

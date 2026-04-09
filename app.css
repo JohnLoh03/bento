@@ -140,13 +140,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .weather {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 30px;
 }
 
 .clock {
@@ -177,6 +178,7 @@ body {
 #greetings {
   font-size: var(--fg-secondary);
   color: var(--fg);
+  margin-top: 30px;
 }
 
 .weatherIcon img {
